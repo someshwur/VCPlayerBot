@@ -22,7 +22,7 @@ from logger import LOGGER
 
 buttons = [
     [
-        InlineKeyboardButton('⚡️Make  My Own Bot', url='https://github.com/someshwur/VCPlayerBot'),
+        InlineKeyboardButton('⚡️Make Your Own Bot', url='https://github.com/someshwur/VCPlayerBot'),
         InlineKeyboardButton('🧩 Join Here For More Updates', url='https://t.me/DHKBots'),
     ]
     ]
