@@ -229,5 +229,4 @@ async def not_chat(_, m: Message):
             InlineKeyboardButton('🧩 Join Here For More Updates', url='https://t.me/DHKBots'),
         ]
         ]
-    await m.reply("<b>You can't use this bot in this group, for that you have to make your own bot from the [SOURCE CODE](https://github.com/someshwur/VCPlayerBot) below.</b>", disable_web_page_preview=True, reply_markup=InlineKeyboardMarkup(buttons))
 
